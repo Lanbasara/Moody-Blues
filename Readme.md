@@ -1,3 +1,3 @@
 # Moody-Blues
 
-User actions recorder and replay for auto browser app test
+User actions recorder and replayer for auto browser app test
