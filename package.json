@@ -6,7 +6,7 @@
   "typings": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "doc:overview": "docsify serve docs --open"
+    "doc": "docsify serve docs --open"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +15,8 @@
     "@types/node": "^18.15.11",
     "docsify-cli": "^4.4.4",
     "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "xpath-generator": "^1.1.0"
   }
 }

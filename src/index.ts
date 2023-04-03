@@ -1,1 +1,1 @@
-const a: number = 1;
+export * from "./recorder";
